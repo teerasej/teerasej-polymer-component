@@ -1,0 +1,22 @@
+{
+  "name": "Polymer-thai-oil-component",
+  "version": "0.0.1",
+  "authors": [
+    "Teerasej Jiraphatchandej <teerasej@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.4.2",
+    "core-elements": "Polymer/core-elements#~0.4.2"
+  },
+  "resolutions": {
+    "platform": "^0.4.0"
+  }
+}
